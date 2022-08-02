@@ -1,3 +1,6 @@
+#Description of this web aplication
+This aplication is developed using angularjs, firebase realtime database, github for desplegue of aplication in the production server.
+
 # For visit:
 https://ms96armijos.github.io/portafolio/#/home
 # Portafolio
